@@ -12,5 +12,5 @@
 
 💻 Tech Stack:
 ---
-![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B)![Static Badge](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B)  ![Static Badge](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
 
