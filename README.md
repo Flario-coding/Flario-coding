@@ -7,6 +7,6 @@
  ---
  🌐 Socials:
  ---
- [![LinkedIn]([[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.pikpng.com/pngl/m/53-533354_linkedin-logo-transparent-png-linkedin-logo-png-clipart.png))](https://linkedin.com/in/parth-verma-36215134b)](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-verma-36215134b)
 
 
