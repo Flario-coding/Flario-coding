@@ -12,4 +12,3 @@
 
 💻 Tech Stack:
 ---
-[![C++](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-rounded&logo=linkedin&logoColor=white)
