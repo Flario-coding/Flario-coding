@@ -8,5 +8,5 @@
  🌐 Socials:
  ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-rounded&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-verma-36215134b)
-
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@editedbyflario)
 
