@@ -4,5 +4,9 @@
  👯 I'm looking for tech companies for internships<br>
  🌱 I'm currently learning about cloud computing<br>
  ⚡Fun Fact: I love making websites, editing videos, and playing video games<br>
+ ---
+ 🌐 Socials:
+ ---
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/parth-verma-36215134b)
 
 
