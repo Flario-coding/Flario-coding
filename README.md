@@ -18,22 +18,8 @@
 ![Static Badge](https://img.shields.io/badge/MONGODB-badge?style=for-the-badge&logo=mongodb&logoColor=white&color=%234EA94B) ![Static Badge](https://img.shields.io/badge/ADOBE-badge?style=for-the-badge&logo=adobe&logoColor=white&color=%23FF0000) ![Static Badge](https://img.shields.io/badge/ADOBE%20ACROBAT%20READER-badge?style=for-the-badge&logo=adobe&logoColor=white&color=%23EC1C24) ![Static Badge](https://img.shields.io/badge/ADOBE%20CREATIVE%20CLOUD-badge?style=for-the-badge&logo=adobe&logoColor=white&color=%23DA1F26) ![Static Badge](https://img.shields.io/badge/ADOBE%20PHOTOSHOP-badge?style=for-the-badge&logo=adobe&logoColor=white&color=%2331A8FF) ![Static Badge](https://img.shields.io/badge/ADOBE%20PREMIERE%20PRO-badge?style=for-the-badge&logo=adobe&logoColor=white&color=%239999FF) <br>
 ![Static Badge](https://img.shields.io/badge/ADOBE%20AFTER%20EFFECTS-badge?style=for-the-badge&logo=adobe&logoColor=white&color=%235C4B99) ![Static Badge](https://img.shields.io/badge/ADOBE%20ILLUSTRATOR-badge?style=for-the-badge&logo=adobe&logoColor=white&color=%23FF9A00) ![Static Badge](https://img.shields.io/badge/ADOBE%20XD-badge?style=for-the-badge&logo=adobe&logoColor=white&color=%23FF61F6) ![Static Badge](https://img.shields.io/badge/CANVA-badge?style=for-the-badge&logo=adobe&logoColor=white&color=%2300C4CC) ![Static Badge](https://img.shields.io/badge/GITHUB-badge?style=for-the-badge&logo=github&logoColor=white&color=black) ![Static Badge](https://img.shields.io/badge/GIT-badge?style=for-the-badge&logo=git&logoColor=white&color=%23F05033)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+📊 GitHub Stats:
+--
 
 
 
