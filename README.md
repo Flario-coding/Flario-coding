@@ -20,6 +20,7 @@
 
 📊 GitHub Stats:
 --
+![GitHub Streak](https://streak-stats.demolab.com?user=Flario-coding&theme=dark)
 
 
 
