@@ -24,7 +24,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flario-coding&theme=dark)<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flario-coding&layout=compact&theme=github_dark)<br>
 
-
+✍️ Random Developers Quote:
+--
+<img width="602" height="405" alt="image" src="https://github.com/user-attachments/assets/f989adae-05df-47d0-8625-6648b0e2d944" />
 
 
 
