@@ -1,23 +1,12 @@
 👋 About Me
 --
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=JetBrains+Mono
-    size=16
-    duration=2800
-    pause=700
-    color=36BCF7
-    multiline=true
-    width=900
-    height=220
-    lines=🚀+I'm+currently+working+on+developing+websites+using+Generative+AI;
-    🎨+I+design+and+build+whatever+I+can+imagine;
-    💡+If+an+idea+pops+into+my+head,+I+build+it+%26+ship+it;
-    🧑‍💻+I'm+looking+for+tech+companies+for+internships;
-    ☁️+I'm+currently+learning+about+cloud+computing;
-    ⚡+Fun+Fact:+I+love+websites,+video+editing,+gaming,+and+cricket!" />
-</p>
+🔭 I'm currently working on developing websites using generative AI
+☁️ I design and build whatever I can imagine 
+🤔 If an idea pops into my head, chances are i build it & deploy it
+👯‍♂️ I'm looking for tech companies for internships
+🌱 I'm currently learning cloud computing
+⚡ Fun Fact: I love making websites, editing videos, playing video games, and playing cricket
 
  🌐 Socials:
  ---
