@@ -23,7 +23,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Flario-coding&theme=dark)<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flario-coding&theme=dark)<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flario-coding&theme=dark)<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flario-coding&layout=compact&theme=github_dark)<br>
 
 
 
