@@ -1,12 +1,12 @@
 👋 About Me
 --
 
-🔭 I'm currently working on developing websites using generative AI
-☁️ I design and build whatever I can imagine 
-🤔 If an idea pops into my head, chances are i build it & deploy it
-👯‍♂️ I'm looking for tech companies for internships
-🌱 I'm currently learning cloud computing
-⚡ Fun Fact: I love making websites, editing videos, playing video games, and playing cricket
+🔭 I'm currently working on developing websites using generative AI <br>
+☁️ I design and build whatever I can imagine <br>
+🤔 If an idea pops into my head, chances are i build it & deploy it <br>
+👯‍♂️ I'm looking for tech companies for internships <br>
+🌱 I'm currently learning cloud computing <br>
+⚡ Fun Fact: I love making websites, editing videos, playing video games, and playing cricket <br>
 
  🌐 Socials:
  ---
