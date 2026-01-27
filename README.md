@@ -6,7 +6,7 @@
 🤔 If an idea pops into my head, chances are i build it & deploy it <br>
 👯‍♂️ I'm looking for tech companies for internships <br>
 🌱 I'm currently learning cloud computing <br>
-⚡ Fun Fact: I love making websites, editing videos, playing video games, and playing cricket <br>
+⚡ Fun Fact: I love making websites, editing videos, and playing video games <br>
 
  🌐 Socials:
  ---
